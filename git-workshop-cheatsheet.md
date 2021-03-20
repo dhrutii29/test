@@ -26,7 +26,10 @@ git push -u origin main
 - Example:
 
 ## Command for Git clone (block-quote + italic)
-
+```
+git clone https://github.com/Radon333/test-1.git
+```
+> ---*Task Completed by Ranveer*---
 ## To make new branch and `switch` or `checkout` to that branch. (block-quote)
 ```
 git checkout -b <branch_name>
