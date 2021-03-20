@@ -84,3 +84,6 @@ git checkout -b <branch_name>
 Pratik Bhatt
 
 Sanyuktha Udyavar
+
+Dhruti Seksaria
+
