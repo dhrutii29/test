@@ -27,6 +27,7 @@ git push -u origin main
 
 ## Command for Git clone (block-quote + italic)
 ```
+<<<<<<< HEAD
 git clone https://github.com/Cdivyam/test.git
 ```
  > ---*Task Completed by Heeth*---
@@ -84,3 +85,7 @@ git checkout -b <branch_name>
 20. ## Add all the steps you followed to commit to this repo as checkboxes (Use H3)
 
 21. ## Add your Name with your github profile links in README.md
+
+Pratik Bhatt
+
+Sanyuktha Udyavar
