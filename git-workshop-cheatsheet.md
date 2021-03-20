@@ -80,3 +80,5 @@ git checkout -b <branch_name>
 20. ## Add all the steps you followed to commit to this repo as checkboxes (Use H3)
 
 21. ## Add your Name with your github profile links in README.md
+
+Pratik Bhatt
